@@ -100,6 +100,9 @@
     background: var(--nav-bg-color);
     z-index: 1;
   }
+  .menu-in{
+    justify-content: center;
+  }
   
   .menu__logo {
     max-width: 160px;
