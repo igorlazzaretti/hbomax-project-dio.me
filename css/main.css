@@ -9,8 +9,8 @@ main {
 
 
 
+/* ASSINE AGORA BUTTON */
 
-  <!-- ASSINE AGORA BUTTON -->
   .header {
     position: relative;
     margin-top: 50px;
@@ -106,7 +106,7 @@ main {
 
 /* == CONHEÇA NOSSOS PLANOS SECTION == */
 .subscription {
-    background: url("../images/background-movies-series.png") no-repeat;
+    background: url("../assets/images/background-movies-series.png") no-repeat;
     background-size: cover;
     position: relative;
   }
@@ -174,24 +174,83 @@ main {
   }
 
 
+/* NOVOS UNIVERSOS SECTION */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+  .contents {
+    margin: 100px auto;
+  }
+  
+  .contents__container {
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px;
+  }
+  
+  .contents__card {
+    border-radius: 16px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border: 2px solid transparent;
+    transition: transform 0.8s, background 0.8s, border 1s;
+  }
+  
+  .contents__card:hover {
+    transform: scale(1.05);
+    border: 2px solid var(--tertiary-color);
+  }
+  
+  .contents__card:hover .contents__image {
+    opacity: 0;
+  }
+  
+  .contents__image {
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+    transition: opacity 2s;
+  }
+  
+  /* HBO Content */
+  
+  .contents__card:nth-child(1):hover {
+    background-image: url("../assets/images/hbo-hover_0.webp");
+  }
+  
+  /* Max Originals Content */
+  
+  .contents__card:nth-child(2):hover {
+    background-image: url("../assets/images/MAX-Hover.webp");
+  }
+  
+  /* DC Content */
+  
+  .contents__card:nth-child(3):hover {
+    background-image: url("../assets/images/DC-Hover.webp");
+  }
+  
+  /* WB Content */
+  
+  .contents__card:nth-child(4):hover {
+    background-image: url("../assets/images/WB-Hover.webp");
+  }
+  
+  /* CN Content */
+  
+  .contents__card:nth-child(5):hover {
+    background-image: url("../assets/images/CN-Hover.png");
+  }
+  
+  /* Champions League Content */
+  
+  .contents__card:nth-child(6):hover {
+    background-image: url("../assets/images/UCL-Hover.webp");
+  }
+  
 
 
 /* == ANIMATIONS == */
-
 @keyframes gradient {
     0% {
       background-position: 0% 50%;
@@ -203,7 +262,6 @@ main {
       background-position: 0% 50%;
     }
   }
-  
   @keyframes wiggle {
     0%,
     10% {
@@ -229,4 +287,3 @@ main {
       transform: rotate(0);
     }
   }
-  
