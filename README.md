@@ -1,6 +1,6 @@
 <div align="center"><img width="800" src="./assets/images/readme-images/cover.png"></div>
 
-## Caffeeteria usando Bootstrap
+## Projeto HBOMAX 
 <a target="_blank" href="https://igorlazzaretti.github.io/hbomax-project-dio.me/html/main.html">👨‍💻 Deploy do Projeto</a>
 
 ## Imagens do projeto
@@ -16,8 +16,13 @@ Criação de um website front-end inspirado no HBO MAX. Curso de CSS com a profe
 </div>
 
 ## Tecnologias Utilizadas
--   HTML 5
--   CSS 3
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://desktop.github.com/images/desktop-icon.svg" title="Github Desktop" **alt="GitHub Desktop" width="50" height="50"/>
+
+
+</div>
 
 
 ## Sobre o Autor
@@ -26,12 +31,12 @@ Criação de um website front-end inspirado no HBO MAX. Curso de CSS com a profe
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=30&duration=3000&pause=700&color=ED51F7&center=true&vCenter=true&random=false&width=440&height=55&lines=Ol%C3%A1!+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;Meu+nome+%C3%A9+Igor;Hello+%F0%9F%91%8B;My+name+is+Igor)](https://git.io/typing-svg)
 </p>
 
-🧙‍♂️ Fâ de Harry Potter <br> 
 🎓 Análise de Sistemas - Cruzeiro do Sul <br>
 💻 Estudante FullStack: Dio.me / DevClub <br>
 👩🏻‍💻 Autor do Site: <a href="https://igorlazzaretti.com/">igorlazzaretti.com</a>
 <br>
-📚 Leitor e Estudante de Outras Linguas <br> 
+📚 Leitor e Estudante de Inglês <br> 
+🧙‍♂️ Fã de Harry Potter <br> 
 
 <div align="center" >
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" title="Meu Site Portifólio" alt="Meu Site Portifólio" width="110" height="27"/>
