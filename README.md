@@ -1,7 +1,7 @@
 <div align="center"><img width="800" src="./assets/images/readme-images/cover.png"></div>
 
 ## Caffeeteria usando Bootstrap
-<a target="_blank" href="https://igorlazzaretti.github.io/hbomax-project-dio.me/">👨‍💻 Deploy do Projeto</a>
+<a target="_blank" href="https://igorlazzaretti.github.io/hbomax-project-dio.me/html/main.html">👨‍💻 Deploy do Projeto</a>
 
 ## Imagens do projeto
 <div align="center">
